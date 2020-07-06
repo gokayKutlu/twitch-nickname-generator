@@ -1,5 +1,5 @@
 # Note
-This script probably no longer works, because Twitch stopped using their Kraken API.
+This script probably doesn't work anymore, because Twitch stopped using their Kraken API.
 
 # About the script
 This python script generates nicknames and checks if there is any channel with that nickname on Twitch API. Most nicknames in this script with 5 characters or more are available.
